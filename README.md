@@ -1,5 +1,5 @@
 # Python-Notebook
 ---
 
-*It is a notebook of Python leaning.*
+*It is a notebook about Python-learning.*
 
