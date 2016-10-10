@@ -1,2 +1,5 @@
 # Python-Notebook
-Python Learning Notes
+---
+
+*It is a notebook of Python leaning.*
+
